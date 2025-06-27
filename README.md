@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
-###
+
 <br clear="both">
 <div align="left">
   <a href="https://www.linkedin.com/in/philipp-franke-58b653350/" target="_blank">
