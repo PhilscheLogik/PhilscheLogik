@@ -33,11 +33,11 @@
 <br clear="both">
 
 <p align="left" dir="auto">Socialmedia:</p>
-<div align="left">
+<div align="left" dir="auto">
   <a href="https://www.linkedin.com/in/philipp-franke-58b653350/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 <br clear="both">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philschelogik" alt="philschelogik" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=philschelogik&label=Profile%20views&color=0e75b6&style=flat" alt="philschelogik" /> </p>
+<p align="center" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philschelogik" alt="philschelogik" /></a> </p>
+<p align="center" dir="auto"> <img src="https://komarev.com/ghpvc/?username=philschelogik&label=Profile%20views&color=0e75b6&style=flat" alt="philschelogik" /> </p>
