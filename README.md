@@ -28,7 +28,7 @@
 
 <div align="center" dir="auto">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PhilscheLogik&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=philschelogik&theme=vue-dark" height="150" alt="philschelogik" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Philschelogik&theme=vue-dark" height="150" alt="philschelogik" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhilscheLogik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
 	
 </div>
