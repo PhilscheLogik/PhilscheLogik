@@ -28,7 +28,9 @@
 
 <div align="center" dir="auto">
   <img src="https://github-readme-stats.vercel.app/api?username=PhilscheLogik&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=philschelogik&" alt="philschelogik" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhilscheLogik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
+	
 </div>
 <br clear="both">
 
@@ -41,10 +43,3 @@
 <br clear="both">
 <p align="center" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philschelogik" alt="philschelogik" /></a> </p>
 <p align="center" dir="auto"> <img src="https://komarev.com/ghpvc/?username=philschelogik&label=Profile%20views&color=0e75b6&style=flat" alt="philschelogik" /> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philschelogik&show_icons=true&locale=en&layout=compact" alt="philschelogik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philschelogik&show_icons=true&locale=en" alt="philschelogik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philschelogik&" alt="philschelogik" /></p>
