@@ -3,7 +3,7 @@
 </div>
 <h3 dir="auto"></h3>
 
-<div align="left" dir="auto">🇬🇧</div>
+<div align="left" dir="auto">🇬🇧/🇺🇸</div>
 <p align="left" dir="auto">I'm Philipp (or Phil), a certified web developer who's ready to start my career. My tech focus is on Angular, plus I've got solid skills in HTML, CSS, and JavaScript. Right now, I'm learning how to put my theoretical knowledge into practice by creating real projects and consistently following modern best practices.</p>
 
 <div align="left" dir="auto">🇩🇪</div>
@@ -27,8 +27,8 @@
 <h3 dir="auto"></h3>
 
 <div align="center" dir="auto">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhilscheLogik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhilscheLogik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PhilscheLogik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhilscheLogik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-darka&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br clear="both">
 
@@ -41,3 +41,10 @@
 <br clear="both">
 <p align="center" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philschelogik" alt="philschelogik" /></a> </p>
 <p align="center" dir="auto"> <img src="https://komarev.com/ghpvc/?username=philschelogik&label=Profile%20views&color=0e75b6&style=flat" alt="philschelogik" /> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philschelogik&show_icons=true&locale=en&layout=compact" alt="philschelogik" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philschelogik&show_icons=true&locale=en" alt="philschelogik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philschelogik&" alt="philschelogik" /></p>
